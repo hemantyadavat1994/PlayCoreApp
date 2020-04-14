@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Play Core App</string>
+    <string name="scan_status">Scan status</string>
+    <string name="update_status">Update status</string>
+    <string name="completed_scanning">Completed Scanning</string>
+    <string name="found_update">Found Update</string>
+    <string name="in_progress">Already in Progress</string>
+    <string name="scan_failed">Failed to Scan for Update</string>
 </resources>
